@@ -1,2 +1,2 @@
-input "hello" 
+input "hello Hani" 
 print 
